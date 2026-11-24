@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.nord",
+  "name": "Nord Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "An arctic, north-bluish clean and elegant color palette",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-nord"
+}

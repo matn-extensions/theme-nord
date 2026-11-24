@@ -1,0 +1,16 @@
+{
+  "name": "Nord",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#2E3440",
+    "barBg": "#2B303B",
+    "text": "#ECEFF4",
+    "muted": "#81A1C1",
+    "accent": "#88C0D0",
+    "activeLine": "#3B4252",
+    "cursor": "#8FBCBB",
+    "border": "#4C566A"
+  }
+}
